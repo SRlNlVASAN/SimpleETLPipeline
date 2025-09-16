@@ -21,7 +21,7 @@ The project automates a data pipeline to:
 
 * **Python**: The core programming language for the entire pipeline.
 * **PyCharm**: The local development environment (IDE) used to write and test the code.
-* **Pandas**: A Python library for data manipulation and analysis.
+* **Pandas**: A Python library for data manipulation and cleaning.
 * **PySpark**: A Python library to connect spark engine for data processing.
 * **Databricks**: A cloud-based platform used for running Spark jobs, storing data in Delta Lake, and scheduling workflows.
 * **Git & GitHub**: Used for version control and collaborative development.
