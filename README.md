@@ -6,6 +6,8 @@ This gives the top selling manual car in the year 2015 on all brands and its det
 
 This is a one time load databricks job to populate the parquet file once
 
+added project screenshots for reference in screenshots folder
+
 ***
 
 ## **Features & Workflow**
